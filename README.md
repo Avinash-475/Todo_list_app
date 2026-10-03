@@ -1,4 +1,3 @@
-# backend-project
 
 # Todo App Backend
 
